@@ -1,3 +1,21 @@
+## Live Applications
+
+Forecasting App:
+https://lavishjangid-food-restaurant-series-ai-mod-streamlit-app-icmgvf.streamlit.app/
+
+Dashboard:
+https://lavishjangid-food-restaurant-series-ai-mod-dashboard-app-g0qeom.streamlit.app/
+
+
+
+Model: XGBoost Regressor
+
+Evaluation Metrics:
+- RMSE: 14.8
+- MAE: 9.3
+- R² Score: 0.91
+
+
 # 🍽️ Food Demand Forecasting using Time-Series Machine Learning
 
 ---
