@@ -1,0 +1,13 @@
+.git
+.github
+__pycache__/
+.streamlit/secrets.toml
+notebooks/
+data/raw/
+*.ipynb
+*.log
+*.pyc
+*.pyo
+.venv/
+venv/
+env/
