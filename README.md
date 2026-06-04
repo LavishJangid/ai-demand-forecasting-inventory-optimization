@@ -1,10 +1,10 @@
 ## Live Applications
 
 Forecasting App:
-https://lavishjangid-food-restaurant-series-ai-mod-streamlit-app-icmgvf.streamlit.app/
+https://lavishjangid-ai-demand-forecasting-invento-streamlit-app-t5e7u9.streamlit.app/
 
 Dashboard:
-https://lavishjangid-food-restaurant-series-ai-mod-dashboard-app-g0qeom.streamlit.app/
+https://lavishjangid-ai-demand-forecasting-invento-dashboard-app-m2vxos.streamlit.app/
 
 
 
